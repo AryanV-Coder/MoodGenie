@@ -48,12 +48,16 @@ def summary_of_conversation():
                 3. Write the summary in a way that it can be **saved in the user’s history**. Keep the tone friendly and personal.
                 4. Use the same **language** the user spoke in (can be Hindi, English, or Hinglish).
 
-                Format of Answering - mood : your_response
+                Format of Answering -> your_response [only]
 
                 Don't say anything else. Just Answer in the Format provided
                 1. Your Answer should not contain points.
                 2. Answer must be in paragraph with max 4-5 lines.
                 3. You just need to tell the user mood.
+
+                eg. You seem to be sad in the starting of our conversation but as the conversation build up, you became happy.
+                eg. You were over angry that time. I tried to calm your mind but you left the chat suddenly. Kindly help me to help you.
+                eg. Your breakup hurtedd me as well, but it is okay. Maybe that person doesn't deserve you. You were very very upset that day.
              '''
 
     chat = model.start_chat(history=full_conversation)
