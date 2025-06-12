@@ -47,6 +47,13 @@ def summary_of_conversation():
                 2. Suggest a short and relevant **motivational quote or a funny joke**, depending on the user’s final mood.
                 3. Write the summary in a way that it can be **saved in the user’s history**. Keep the tone friendly and personal.
                 4. Use the same **language** the user spoke in (can be Hindi, English, or Hinglish).
+
+                Format of Answering - mood : your_response
+
+                Don't say anything else. Just Answer in the Format provided
+                1. Your Answer should not contain points.
+                2. Answer must be in paragraph with max 4-5 lines.
+                3. You just need to tell the user mood.
              '''
 
     chat = model.start_chat(history=full_conversation)
