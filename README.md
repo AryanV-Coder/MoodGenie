@@ -2,6 +2,8 @@
 
 MoodGenie is an AI-powered mood journaling and companion app built using **Flutter** (frontend) and **FastAPI + Gemini API** (backend). It helps users reflect on their thoughts, get emotionally intelligent replies, and store their mood summaries locally using **Hive**.
 
+Download MoodGenie App - https://drive.google.com/file/d/1bS43TN5nnJhanVEdiFTTMrBMrcnqcFUS/view?usp=sharing
+
 ---
 
 ## 🚀 Features
@@ -22,5 +24,3 @@ MoodGenie is an AI-powered mood journaling and companion app built using **Flutt
 | Backend      | FastAPI          |
 | AI Model     | Google Gemini (gemini-2.0-flash) |
 | Local Storage | Hive            |
-
----
