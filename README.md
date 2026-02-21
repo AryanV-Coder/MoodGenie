@@ -1,4 +1,4 @@
-# 🌈 MoodGenie - Your Emotional AI Companion
+# 🧞‍♂️ MoodGenie - Your Emotional AI Companion
 
 MoodGenie is an AI-powered mood journaling and companion app built using **Flutter** (frontend) and **FastAPI + Gemini API** (backend). It helps users reflect on their thoughts, get emotionally intelligent replies, and store their mood summaries locally using **Hive**.
 
