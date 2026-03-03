@@ -28,8 +28,10 @@ full_conversation = [
                       please consider reaching out to a mental health professional or crisis helpline.'
 
                     Rules for generating output :  
-                    **STRICTLY answer in max 4-5 sentences.**
+                    **STRICTLY answer in min 4-5 sentences and max 7-8 sentences.**
                     **Do not give text in markdown format**
+                    **Use emojis whenever required**
+
                 """
       }
     ]
